@@ -10,3 +10,5 @@ CREATE TABLE Transactions (
 	conta_origem VARCHAR(100),
 	conta_destino VARCHAR(100)
 )
+
+SELECT * FROM dbo.Transactions
